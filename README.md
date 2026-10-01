@@ -1,11 +1,11 @@
 # Muhammad Radiek Fidiyanto
 
-**Full-Stack Software Engineer | Information Systems Graduate**
+**Software Developer | Information Systems Graduate**
 
-I am a Software Developer specializing in building scalable full-stack applications, robust backend architectures, and efficient RESTful APIs. With practical experience ranging from maintaining data management systems at Pusdatin DKI Jakarta to developing commercial applications, I focus on delivering clean code and end-to-end digital solutions.
+I am a Software Developer specializing in building scalable full stack applications, robust backend architectures, and efficient RESTful APIs. With practical experience ranging from maintaining data management systems at Pusdatin Dinas Pendidikan Provinsi DKI Jakarta to developing commercial applications, I focus on delivering clean code and end to end digital solutions.
 
 ### About My Work
-- **Focus:** Full-Stack Web Development, System Architecture, and API Design.
+- **Focus:** Full Stack Web Development, System Architecture, and API Design.
 - **Experience:** Engineered data management backends, handled relational database mapping, and built commercial client applications using modern technology ecosystems.
 - **Current Projects:** Developing software solutions and digital system architectures through my agency, Avarice Tech.
 
@@ -44,5 +44,4 @@ I am a Software Developer specializing in building scalable full-stack applicati
 
 ### Connect
 - **LinkedIn:** [linkedin.com/in/muhammad-radiek-fidiyanto](https://linkedin.com/in/muhammad-radiek-fidiyanto)
-- **Portfolio:** [avaricetech.com](https://avaricetech.com) | [figtries.com](https://figtries.com)
 - **Email:** radikfidi20@gmail.com
